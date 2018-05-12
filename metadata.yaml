@@ -1,0 +1,35 @@
+_repo: Madame-Chrysanth-me_15335
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Ensor, Laura
+    gutenberg_agent_id: '25378'
+    url: http://www.gutenberg.org/2009/agents/25378
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Loti, Pierre
+    aliases:
+    - Viaud, Louis Marie Julien
+    - Viaud, Julien
+    birthdate: 1850
+    deathdate: 1923
+    gutenberg_agent_id: '853'
+    url: http://www.gutenberg.org/2009/agents/853
+    wikipedia: http://en.wikipedia.org/wiki/Pierre_Loti
+description: ''
+gutenberg_issued: '2005-03-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15335'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Japan -- Fiction'
+- !lcc 'PQ'
+title: Madame Chrysanthème
+url: http://www.gutenberg.org/ebooks/15335
